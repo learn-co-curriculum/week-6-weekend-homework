@@ -6,7 +6,12 @@ Just what you wanted to do this Labor Day!
 
 Please fill out the self reflection [here](https://docs.google.com/forms/d/e/1FAIpQLSdL7UEZwVberai5edKSiX6nkGPTIm1biIDATHUV7cGULxYfPA/viewform). This is a time to reflect on all of the awesome stuff you've learned this week.
 
-## Part I: Independent Rails Project
+## Part I: Labs!
+
+* Flatstagram lab
+* JS Task Lister lab
+
+## Part II: Independent Rails Project
 
 You'll spend this weekend constructing a small Rails project independently--no pairs this time! Though of course you can and should reach out to classmates for support, this project is yours alone. 
 
@@ -30,3 +35,7 @@ Advanced readings:
 * [Async and Performance: Asynchronicity now and later](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md)
 * [Async and Performance: Callbacks](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch2.md)
 * [Async and Performance: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch3.md)
+
+## Bonus
+
+Build a JavaScript-only, single-page application that connects to the API of your choice and does all the CRUD things.
