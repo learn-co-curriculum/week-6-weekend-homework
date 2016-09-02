@@ -2,6 +2,10 @@
 
 Just what you wanted to do this Labor Day!
 
+## Part 0: Self Reflection 
+
+Please fill out the self reflection [here](https://docs.google.com/forms/d/e/1FAIpQLSdL7UEZwVberai5edKSiX6nkGPTIm1biIDATHUV7cGULxYfPA/viewform). This is a time to reflect on all of the awesome stuff you've learned this week.
+
 ## Part I: Independent Rails Project
 
 You'll spend this weekend constructing a small Rails project independently--no pairs this time! Though of course you can and should reach out to classmates for support, this project is yours alone. 
