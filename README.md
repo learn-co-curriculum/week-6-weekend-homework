@@ -1,33 +1,17 @@
-# Labor Day Weekend Homework
+# Week 6 Weekend Homework
 
-Just what you wanted to do this Labor Day!
+Congrats on making it through Rails! Now it's time to continue on our programming journey by learning JavaScript.
 
-## Part 0: Self Reflection 
+Over the three-day weekend, please do the following:
 
-Please fill out the self reflection [here](https://docs.google.com/forms/d/e/1FAIpQLSdL7UEZwVberai5edKSiX6nkGPTIm1biIDATHUV7cGULxYfPA/viewform). This is a time to reflect on all of the awesome stuff you've learned this week.
-
-## Part I: Labs!
-
-* Flatstagram lab
-* JS Task Lister lab
-
-## Part II: Independent Rails Project
-
-You'll spend this weekend constructing a small Rails project independently--no pairs this time! Though of course you can and should reach out to classmates for support, this project is yours alone. 
-
-### Requirements
-
-* 3 models with one join table
-* Minimum of one nested form
-* Minimum of one AJAX-ified form. In other words, one of your forms should be submitted via AJAX, and you should use jQuery to change the appearance of the page upon receiving a successful response from you AJAX request. 
-
-## Part 2: Readings
-
-Read the following chapters of the *You Don't Know JS* book:
+1. Read the following chapters of the *You Don't Know JS* book:
 
 * [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+
+2. Labs
+We've deployed a number of labs to your track. Please check the track nav under the `Javascript` unit.
 
 Advanced readings:
 
@@ -36,6 +20,3 @@ Advanced readings:
 * [Async and Performance: Callbacks](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch2.md)
 * [Async and Performance: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch3.md)
 
-## Bonus
-
-Build a JavaScript-only, single-page application that connects to the API of your choice and does all the CRUD things.
